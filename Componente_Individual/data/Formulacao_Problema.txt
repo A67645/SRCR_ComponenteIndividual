@@ -1,0 +1,16 @@
+    FORMULAÇÃO DO PROBLEMA:
+Dados do Problema:
+1 - Diferentes Pontos de Recolha da Mesma freguesia;
+2 - Mais do que um ponto de recolha por rua;
+3 - Pontos de Recolha de Diferentes tipos na mesma rua;
+4 - Ruas podem ter lado par e impar;
+5 - Ruas podem ter mais do que um sentido;
+6 - Ruas começam numa rua e terminam numa rua;
+7 - Cada ponto de recolha tem n contentores de capacidade c dando um total t=n*c Litros;
+
+
+Template das entradas da base de conhecimento:
+
+Ponto de Recolha: Id, Latitude, Longitude, Ruas Adjacentes, Residuos Contentor, Tipo Contentor, Total de Lixo -> {V,F}
+
+Adjacencia: 
