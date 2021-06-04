@@ -28,12 +28,11 @@ def getID(pontos_recolha : dict, nome):
     for key in pontos_recolha:
         if pontos_recolha[key][3] == nome:
             return pontos_recolha[key][0]
+    return '15805'
 
 def match(pontos_recolha : dict, nome):
         for key in pontos_recolha:
-            print('nome in match: ' + nome + ' ant in match: ' + pontos_recolha[key][4] + ' | seg in match: ' + pontos_recolha[key][5])
             if pontos_recolha[key][4] == nome or pontos_recolha[key][5] == nome:
-                print(pontos_recolha[key][3])
                 return pontos_recolha[key][3]
 
 def getLat(pontos_recolha : dict, id_local):
@@ -70,27 +69,22 @@ while i < len(dataframe['OBJECTID']):
             direcao = "Impar"
 
         pontos_recolha[id_local] = [id_local, latitude, longitude, nome_rua, rua_anterior, rua_seguinte, direcao]
-        # print(str([id_local, latitude, longitude, nome_rua, rua_anterior, rua_seguinte, direcao]))
-
     
     else:
         id_local = str(re.sub(':.*', '',  dataframe.iloc[i]['PONTO_RECOLHA_LOCAL']))
         latitude = str(dataframe.iloc[i]['Latitude'])
         longitude = str(dataframe.iloc[i]['Longitude'])
-        nome_rua = re.sub(',[a-zA-Z0-9\\-/º]*', '', re.sub('[0-9]*: ', '', dataframe.iloc[i]['PONTO_RECOLHA_LOCAL']))
-        print('nome rua unico: ' + nome_rua)
+        nome_rua = re.sub(',[a-zA-Z0-9\\-/º ]*', '', re.sub('[0-9]*: ', '', dataframe.iloc[i]['PONTO_RECOLHA_LOCAL']))
         rua_anterior = match(pontos_recolha, nome_rua)
-        rua_seguinte = rua_anterior
-        direcao = "Ambos"
-
-        pontos_recolha[id_local] = [id_local, latitude, longitude, nome_rua, rua_anterior, rua_seguinte, direcao]
-        # print(str([id_local, latitude, longitude, nome_rua, rua_anterior, rua_seguinte, direcao]))
-
+        if rua_anterior != None:
+            rua_seguinte = rua_anterior
+            direcao = "Ambos"
+            pontos_recolha[id_local] = [id_local, latitude, longitude, nome_rua, rua_anterior, rua_seguinte, direcao]
 
     i = i + 1
 
 for key,values in pontos_recolha.items():
-    knowledgebase.write('ponto_recolha(' + values[0] + ', ' + values[1] + ', ' + values[2] + ', "' + values[3] + '", "' + values[4] + '", "' + values[5] + '", ' + values[6] + ').\n')
+    knowledgebase.write('ponto_recolha(' + values[0] + ', ' + values[1] + ', ' + values[2] + ', "' + values[3] + '", "' + values[4] + '", "' + values[5] + '", "' + values[6] + '").\n')
 
 knowledgebase.write('\n% aresta: IdOrigem, IdDestino, Distancia -> {V,F}\n\n')
 
@@ -110,14 +104,14 @@ for key,value in pontos_recolha.items():
         if id_adj2 != None:
             lat_adj2 = getLat(pontos_recolha, id_adj2)
             long_adj2 = getLong(pontos_recolha, id_adj2)
-            dist_adj2 = distancia(lat_P, long_p, lat_adj2, long_adj2)
-            arestas.append([id_p, id_adj2, dist_adj2])
+            dist_adj2 = distancia(lat_p, long_p, lat_adj2, long_adj2)
+            arestas.append([key, id_adj2, dist_adj2])
 
     elif value[6] == "Impar":
         if id_adj2 != None:
             lat_adj2 = getLat(pontos_recolha, id_adj2)
             long_adj2 = getLong(pontos_recolha, id_adj2)
-            dist_adj2 = distancia(lat_P, long_p, lat_adj2, long_adj2)
+            dist_adj2 = distancia(lat_p, long_p, lat_adj2, long_adj2)
             arestas.append([id_adj2, key, dist_adj2])  
         if id_adj1 != None:
             lat_adj1 = getLat(pontos_recolha, id_adj1)
@@ -134,12 +128,12 @@ for key,value in pontos_recolha.items():
         if id_adj2 != None:
             lat_adj2 = getLat(pontos_recolha, id_adj2)
             long_adj2 = getLong(pontos_recolha, id_adj2)
-            dist_adj2 = distancia(lat_P, long_p, lat_adj2, long_adj2)
+            dist_adj2 = distancia(lat_p, long_p, lat_adj2, long_adj2)
             arestas.append([key, id_adj2, dist_adj2])
         if id_adj2 != None:
             lat_adj2 = getLat(pontos_recolha, id_adj2)
             long_adj2 = getLong(pontos_recolha, id_adj2)
-            dist_adj2 = distancia(lat_P, long_p, lat_adj2, long_adj2)
+            dist_adj2 = distancia(lat_p, long_p, lat_adj2, long_adj2)
             arestas.append([id_adj2, key, dist_adj2])  
         if id_adj1 != None: 
             lat_adj1 = getLat(pontos_recolha, id_adj1)
