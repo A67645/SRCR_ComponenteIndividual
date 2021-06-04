@@ -13,4 +13,6 @@ Template das entradas da base de conhecimento:
 
 Ponto de Recolha: Id, Latitude, Longitude, Ruas Adjacentes, Residuos Contentor, Tipo Contentor, Total de Lixo -> {V,F}
 
+versao simplificada assume camiao infinito
+
 Adjacencia: 
