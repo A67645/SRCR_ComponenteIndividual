@@ -1,121 +1,442 @@
-ponto_recolha(15805, -9.14330880914792, 38.7080787857025, "R do Alecrim ", "R Ferragial ", "R Ataíde", 0).
-ponto_recolha(15806, -9.14337777820218, 38.7080781891571, "R do Alecrim ", "R Ataíde ", "R Ferragial", 0).
-ponto_recolha(15807, -9.14348180670535, 38.7073026157039, "R do Alecrim ", "R Ferragial ", "Pc Duque da Terceira", 0).
-ponto_recolha(15808, -9.14255098678099, 38.7073286838222, "R Corpo Santo ", "Lg Corpo Santo ", "Tv Corpo Santo", 1).
-ponto_recolha(15809, -9.14276596081499, 38.7070836135523, "Tv Corpo Santo ", "R Corpo Santo ", "R Bernardino da Costa", 1).
-ponto_recolha(15810, -9.1426225690344, 38.7066975168166, "Tv Corpo Santo ", "R Bernardino da Costa ", "Cais do Sodré", 1).
-ponto_recolha(15811, -9.14240835587344, 38.7069966274245, "R Bernardino da Costa ", "Lg Corpo Santo ", "Tv Corpo Santo", 1).
-ponto_recolha(15812, -9.14305015543156, 38.7068559589223, "R Bernardino da Costa ", "Tv Corpo Santo ", "Pc Duque da Terceira", 1).
-ponto_recolha(15813, -9.1512511235953, 38.7087754470349, "Lg Conde-Barão ", "R da Boavista ", "Bqr do Duro", 1).
-ponto_recolha(15814, -9.15178946418214, 38.7086356323308, "Lg Conde-Barão ", "Bqr do Duro ", "R Mastros", 1).
-ponto_recolha(15815, -9.15201897924565, 38.708606605818, "Lg Conde-Barão ", "R Mastros ", "Tv do Cais do Tojo", 1).
-ponto_recolha(15818, -9.14910552718357, 38.709073383915, "Tv Marquês de Sampaio ", "R da Boavista ", "R da Boavista", 1).
-ponto_recolha(15819, -9.14764976145157, 38.708563591768, "R da Boavista ", "R São Paulo ", "Tv Marquês de Sampaio", 1).
-ponto_recolha(15820, -9.1485717796828, 38.7087267228466, "R da Boavista ", "Tv Marquês de Sampaio ", "Bqr dos Ferreiros", 1).
-ponto_recolha(15821, -9.14911344583279, 38.7088210959641, "R da Boavista ", "Bqr dos Ferreiros ", "Tv Marquês de Sampaio", 1).
-ponto_recolha(15822, -9.14949354638571, 38.7088718347208, "R da Boavista ", "Tv Marquês de Sampaio ", "Pto Galega (Rua da Boavista, 118", 1).
-ponto_recolha(15823, -9.15018388371526, 38.7089108606806, "R da Boavista ", "Pto Galega (Rua da Boavista, 118) ", "R Instituto Industrial", 1).
-ponto_recolha(15824, -9.15079311664937, 38.7089055507175, "R da Boavista ", "R Instituto Industrial ", "Lg Conde-Barão", 1).
-ponto_recolha(15825, -9.15206034846112, 38.7082819634324, "Tv do Cais do Tojo ", "R Cais do Tojo ", "R Cais do Tojo", 1).
-ponto_recolha(15827, -9.15247211372946, 38.7081342433687, "R Cais do Tojo ", "Av Dom Carlos I ", "Tv do Cais do Tojo", 1).
-ponto_recolha(15828, -9.15178357572543, 38.7082213241484, "R Cais do Tojo ", "Tv do Cais do Tojo ", "Bqr do Duro", 1).
-ponto_recolha(15830, -9.15154474333579, 38.7084035643017, "Bqr do Duro ", "R Cais do Tojo ", "R Cais do Tojo", 1).
-ponto_recolha(15831, -9.1513885281045, 38.7079275125773, "Bqr do Duro ", "R Cais do Tojo ", "R Dom Luís I", 1).
-ponto_recolha(15832, -9.14751394875702, 38.7103393147562, "Tv Santa Catarina, 4-6", "15832: Tv Santa Catarina, 4", "15832: Tv Santa Catarina, 4-6", 0).
-ponto_recolha(15833, -9.14856601878688, 38.7099428303287, "R Ferreiros a Santa Catarina, 20", "15833: R Ferreiros a Santa Catarina, 20", "15833: R Ferreiros a Santa Catarina, 20", 0).
-ponto_recolha(15834, -9.15046432876378, 38.7068005850863, "R Instituto Industrial ", "Av 24 de Julho ", "R Dom Luís I", 1).
-ponto_recolha(15836, -9.1505486401448, 38.7078807891527, "R Instituto Industrial ", "R Dom Luís I ", "R da Boavista", 1).
-ponto_recolha(15838, -9.14851812420916, 38.7098081294277, "R Santa Catarina, 19", "15838: R Santa Catarina, 19", "15838: R Santa Catarina, 19", 0).
-ponto_recolha(15841, -9.14704425203433, 38.7080193757895, "R Moeda ", "R São Paulo ", "Pc Dom Luís I", 1).
-ponto_recolha(15842, -9.14614421827306, 38.707783978131, "Tv Carvalho ", "R Ribeira Nova ", "Tv Carvalho", 1).
-ponto_recolha(15843, -9.14563984658037, 38.7078874408968, "Tv Carvalho ", "Tv Carvalho ", "Pc São Paulo", 1).
-ponto_recolha(15844, -9.14598863635406, 38.7081636570213, "Tv Carvalho ", "Tv Carvalho ", "R São Paulo", 1).
-ponto_recolha(15845, -9.15199352638039, 38.7076249751805, "R Dom Luís I ", "Av Dom Carlos I ", "Bqr do Duro", 1).
-ponto_recolha(15846, -9.15093562538604, 38.7076071810499, "R Dom Luís I ", "Bqr do Duro ", "R Instituto Industrial", 1).
-ponto_recolha(15847, -9.14993558128589, 38.7076158965573, "R Dom Luís I ", "R Instituto Industrial ", "Bqr dos Ferreiros", 1).
-ponto_recolha(15848, -9.14829055489657, 38.7075401361692, "R Dom Luís I ", "Bqr dos Ferreiros ", "Pc Dom Luís I", 1).
-ponto_recolha(15849, -9.14714620183592, 38.707099690356, "Pc Dom Luís I ", "R Dom Luís I ", "Av 24 de Julho", 1).
-ponto_recolha(15850, -9.14835399212529, 38.7103950657776, "Tv Condessa do Rio, Fte 3", "15850: Tv Condessa do Rio, Fte 3", "15850: Tv Condessa do Rio, Fte 3", 0).
-ponto_recolha(15851, -9.14671590072996, 38.7075628281927, "Pc Dom Luís I ", "R Ribeira Nova ", "R Dom Luís I", 1).
-ponto_recolha(15852, -9.14493001491084, 38.7072810634258, "R Ribeira Nova ", "R Remolares ", "R Instituto Dona Amélia", 1).
-ponto_recolha(15853, -9.14585366538093, 38.7075613035211, "R Ribeira Nova ", "R Instituto Dona Amélia ", "Pc Dom Luís I", 1).
-ponto_recolha(15855, -9.14350797013798, 38.7075275840864, "R São Paulo ", "R Corpo Santo ", "R Flores", 0).
-ponto_recolha(15856, -9.14415472749814, 38.7077381729183, "R São Paulo ", "R Flores ", "Pc São Paulo", 0).
-ponto_recolha(15857, -9.14418870357883, 38.707701846559, "R São Paulo ", "Pc São Paulo ", "Tv dos Remolares", 0).
-ponto_recolha(15858, -9.14351882987146, 38.7074824516687, "R São Paulo ", "Tv dos Remolares ", "Tv Corpo Santo", 0).
-ponto_recolha(15859, -9.14475474461576, 38.7078951146912, "R São Paulo ", "Pc São Paulo ", "Pc São Paulo", 1).
-ponto_recolha(15860, -9.14552858843579, 38.7081496329634, "R São Paulo ", "Pc São Paulo ", "Tv Carvalho", 1).
-ponto_recolha(15861, -9.14606015123382, 38.7083431936003, "R São Paulo ", "Tv Carvalho ", "Bc da Moeda", 1).
-ponto_recolha(15862, -9.14634879700261, 38.7084307669213, "R São Paulo ", "Bc da Moeda ", "Cc da Bica Grande", 1).
-ponto_recolha(15863, -9.14664843006564, 38.7084822125522, "R São Paulo ", "Cc da Bica Grande ", "R Moeda", 1).
-ponto_recolha(15864, -9.14695866414731, 38.7084705102342, "R São Paulo ", "R Moeda ", "R da Boavista", 1).
-ponto_recolha(15865, -9.14428821714939, 38.7074217423076, "R Nova do Carvalho ", "Pc São Paulo ", "Tv dos Remolares", 1).
-ponto_recolha(15866, -9.14381451843206, 38.7072546959625, "R Nova do Carvalho ", "Tv dos Remolares ", "R do Alecrim", 1).
-ponto_recolha(15867, -9.14319266057494, 38.7071790073949, "R Nova do Carvalho ", "R do Alecrim ", "Tv Corpo Santo", 1).
-ponto_recolha(15868, -9.14402783597271, 38.7068925345681, "R Remolares ", "Pc Duque da Terceira ", "Tv dos Remolares", 1).
-ponto_recolha(15869, -9.14447892499263, 38.7070868003123, "R Remolares ", "Tv dos Remolares ", "Tv Ribeira Nova", 1).
-ponto_recolha(15871, -9.14441649477531, 38.7067360350326, "Tv dos Remolares ", "Av 24 de Julho ", "R Remolares", 1).
-ponto_recolha(15873, -9.14416983805955, 38.7071795562796, "Tv dos Remolares ", "R Nova do Carvalho ", "R Nova do Carvalho", 1).
-ponto_recolha(15875, -9.14401335962188, 38.7074961856438, "Tv dos Remolares ", "R São Paulo ", "R Nova do Carvalho", 1).
-ponto_recolha(15876, -9.14404732851606, 38.7058294413797, "Cais do Sodré ", "Av 24 de Julho ", "R Cintura (Santos", 1).
-ponto_recolha(15877, -9.14324233291858, 38.7058093867279, "Cais do Sodré ", "R Cintura (Santos) ", "Pc Duque da Terceira", 1).
-ponto_recolha(15878, -9.14281417070135, 38.7064256244632, "Cais do Sodré ", "Pc Duque da Terceira ", "Tv Corpo Santo", 1).
-ponto_recolha(15879, -9.14222984894838, 38.7065657946941, "Cais do Sodré ", "Tv Corpo Santo ", "Lg Corpo Santo", 1).
-ponto_recolha(15880, -9.14622006213417, 38.7082697430488, "Bc da Moeda ", "R São Paulo ", "R São Paulo", 1).
-ponto_recolha(15881, -9.14956443154647, 38.7090063348014, "Pto Galega ", "R da Boavista ", "R da Boavista", 1).
-ponto_recolha(15882, -9.15059949287472, 38.709033347926, "Bc da Boavista ", "R da Boavista ", "R da Boavista", 1).
-ponto_recolha(15883, -9.1446205470921, 38.7073467997814, "Tv Ribeira Nova ", "R Remolares ", "R Nova do Carvalho", 1).
-ponto_recolha(15884, -9.14476400355141, 38.7069221884751, "Pc Ribeira Nova ", "Av 24 de Julho ", "R Ribeira Nova", 1).
-ponto_recolha(15885, -9.14508822170713, 38.7079012322757, "Pc São Paulo ", "R São Paulo ", "Tv Carvalho", 1).
-ponto_recolha(15886, -9.14488886847759, 38.7076237175904, "Pc São Paulo ", "Tv Carvalho ", "Tv Ribeira Nova", 1).
-ponto_recolha(15887, -9.14447518350945, 38.7076363096132, "Pc São Paulo ", "Tv Ribeira Nova ", "R São Paulo", 1).
-ponto_recolha(15888, -9.14329884772974, 38.7065565483955, "Pc Duque da Terceira ", "Cais do Sodré ", "R Bernardino da Costa", 1).
-ponto_recolha(15889, -9.14340471238935, 38.7067267810448, "Pc Duque da Terceira ", "R Bernardino da Costa ", "R do Alecrim", 1).
-ponto_recolha(15890, -9.14361174262131, 38.7067339965055, "Pc Duque da Terceira ", "R do Alecrim ", "R Remolares", 1).
-ponto_recolha(15891, -9.1437590142256, 38.7065795884311, "Pc Duque da Terceira ", "R Remolares ", "Av 24 de Julho", 1).
-ponto_recolha(15892, -9.14200502758224, 38.7069280516782, "Lg Corpo Santo ", "Cais do Sodré ", "R Arsenal", 1).
-ponto_recolha(15893, -9.14201010036865, 38.7072883208907, "Lg Corpo Santo ", "R Arsenal ", "Cc do Ferragial", 1).
-ponto_recolha(15894, -9.1420813502454, 38.7074498453842, "Lg Corpo Santo ", "Cc do Ferragial ", "R Corpo Santo", 1).
-ponto_recolha(15896, -9.14986368552042, 38.7090307521821, "Bc Francisco André ", "R da Boavista ", "R da Boavista", 1).
-ponto_recolha(15897, -9.14534815013291, 38.7075837039225, "Tv de São Paulo ", "Pc São Paulo ", "R Ribeira Nova", 1).
-ponto_recolha(15898, -9.14437680001953, 38.7063670578938, "Av 24 de Julho ", "Pc Duque da Terceira ", "Tv dos Remolares", 0).
-ponto_recolha(15899, -9.14473414894124, 38.7064360246404, "Av 24 de Julho ", "Tv dos Remolares ", "Pc Ribeira Nova", 0).
-ponto_recolha(19365, -9.14751690960422, 38.7146089969724, "R O Século, 150", "19365: R O Século, 150", "19365: R O Século, 150", 0).
-ponto_recolha(19216, -9.15186340541146, 38.7154539083141, "R Marcos Portugal, Muro do Lg Agostinho da Silva", "19216: R Marcos Portugal, Muro do Lg Agostinho da Silva", "19216: R Marcos Portugal, Muro do Lg Agostinho da Silva", 0).
-ponto_recolha(19280, -9.14754956156816, 38.7112307798315, "Tv André Valente, jt silo", "19280: Tv André Valente, jt silo", "19280: Tv André Valente, jt silo", 0).
-ponto_recolha(19301, -9.14422400736949, 38.7069448834987, "R Remolares, Crzt Tv Remolares", "19301: R Remolares, Crzt Tv Remolares", "19301: R Remolares, Crzt Tv Remolares", 0).
-ponto_recolha(19315, -9.14440731848469, 38.7101590906286, "R Emenda, 100", "19315: R Emenda, 100", "19315: R Emenda, 100", 0).
-ponto_recolha(19300, -9.14490054388133, 38.7108934583781, "R Salgadeiras, SFC CZT  R. da Atalaia", "19300: R Salgadeiras, SFC CZT  R. da Atalaia", "19300: R Salgadeiras, SFC CZT  R. da Atalaia", 0).
-ponto_recolha(19407, -9.14388063353866, 38.7094970732753, "Tv Guilherme Cossoul, 10", "19407: Tv Guilherme Cossoul, 10", "19407: Tv Guilherme Cossoul, 10", 0).
-ponto_recolha(19282, -9.1513885505624, 38.7087382169296, "Lg Conde-Barão, 19", "19282: Lg Conde", "19282: Lg Conde-Barão, 19", 0).
-ponto_recolha(19257, -9.1531085611251, 38.713272150325, "R São Bento, 212", "19257: R São Bento, 212", "19257: R São Bento, 212", 0).
-ponto_recolha(19293, -9.15311830964257, 38.7163797615419, "R Imprensa Nacional, 46", "19293: R Imprensa Nacional, 46", "19293: R Imprensa Nacional, 46", 0).
-ponto_recolha(19310, -9.14226074740088, 38.7079437265862, "R Vitor Cordon, 43", "19310: R Vitor Cordon, 43", "19310: R Vitor Cordon, 43", 0).
-ponto_recolha(19319, -9.14481349084208, 38.7079846835909, "R São Paulo, 108", "19319: R São Paulo, 108", "19319: R São Paulo, 108", 0).
-ponto_recolha(19236, -9.15360843944475, 38.7144658214995, "R São Bento, 318", "19236: R São Bento, 318", "19236: R São Bento, 318", 0).
-ponto_recolha(19295, -9.14460348898318, 38.7142829757734, "R Teixeira, 1", "19295: R Teixeira, 1", "19295: R Teixeira, 1", 0).
-ponto_recolha(19371, -9.14464751990681, 38.7108866428877, "R Salgadeiras, SFC Jt 11", "19371: R Salgadeiras, SFC Jt 11", "19371: R Salgadeiras, SFC Jt 11", 0).
-ponto_recolha(19390, -9.15242517945081, 38.7096839983153, "R Poço dos Negros, crzt R São Bento", "19390: R Poço dos Negros, crzt R São Bento", "19390: R Poço dos Negros, crzt R São Bento", 0).
-ponto_recolha(19278, -9.15305561262562, 38.7119754868767, "R Correia Garção, 3", "19278: R Correia Garção, 3", "19278: R Correia Garção, 3", 0).
-ponto_recolha(19415, -9.14301166531656, 38.7073877536231, "R São Paulo, 14 a 16", "19415: R São Paulo, 14 a 16", "19415: R São Paulo, 14 a 16", 0).
-ponto_recolha(19337, -9.14385688118425, 38.7094432317241, "Tv Guilherme Cossoul, 11", "19337: Tv Guilherme Cossoul, 11", "19337: Tv Guilherme Cossoul, 11", 0).
-ponto_recolha(21843, -9.15264387969663, 38.7105108085557, "R São Bento, 15", "21843: R São Bento, 15", "21843: R São Bento, 15", 0).
-ponto_recolha(21844, -9.15130039259538, 38.7122430297428, "R Cruz dos Poiais de São Bento, Crt R das Parreiras", "21844: R Cruz dos Poiais de São Bento, Crt R das Parreiras", "21844: R Cruz dos Poiais de São Bento, Crt R das Parreiras", 0).
-ponto_recolha(21957, -9.14752862812709, 38.7056911463271, "R da Cintura do Porto de Lisboa, 3154 Armazém B", "21957: R da Cintura do Porto de Lisboa, 3154 Armazém B", "21957: R da Cintura do Porto de Lisboa, 3154 Armazém B", 0).
-ponto_recolha(21959, -9.1507756102811, 38.7084823352254, "R Instituto Industrial, 7-7D", "21959: R Instituto Industrial, 7", "21959: R Instituto Industrial, 7-7D", 0).
-ponto_recolha(21911, -9.14605416845402, 38.707919877341, "Tv Carvalho, frt nº 29", "21911: Tv Carvalho, frt nº 29", "21911: Tv Carvalho, frt nº 29", 0).
-ponto_recolha(21952, -9.14906797670637, 38.7088575233976, "R da Boavista, 88-94", "21952: R da Boavista, 88", "21952: R da Boavista, 88-94", 0).
-ponto_recolha(21969, -9.15158073972755, 38.7077006401431, "R Dom Luís I, 34", "21969: R Dom Luís I, 34", "21969: R Dom Luís I, 34", 0).
-ponto_recolha(21854, -9.14444160448415, 38.7093300738379, "R Emenda, 41-43-45-47", "21854: R Emenda, 41", "21854: R Emenda, 41-43-45-47", 0).
-ponto_recolha(21938, -9.14408342911238, 38.7116481877359, "R Diário de Notícias, 40-A", "21938: R Diário de Notícias, 40", "21938: R Diário de Notícias, 40-A", 0).
-ponto_recolha(21961, -9.14329248945415, 38.7077366293235, "R do Alecrim, 24", "21961: R do Alecrim, 24", "21961: R do Alecrim, 24", 0).
-ponto_recolha(21866, -9.14731529890835, 38.7117372535528, "R O Século, 12", "21866: R O Século, 12", "21866: R O Século, 12", 0).
-ponto_recolha(21966, -9.14642470554241, 38.7105469477308, "R Marechal Saldanha, 26-26/A", "21966: R Marechal Saldanha, 26", "21966: R Marechal Saldanha, 26-26/A", 0).
-ponto_recolha(21967, -9.14497783133511, 38.7106675928332, "R Loreto, 57-59", "21967: R Loreto, 57", "21967: R Loreto, 57-59", 0).
-ponto_recolha(21944, -9.14323374592279, 38.7076470601131, "R Ferragial, 33-B", "21944: R Ferragial, 33", "21944: R Ferragial, 33-B", 0).
-ponto_recolha(21932, -9.14841674214284, 38.7075210227377, "R Dom Luís I, 7-9", "21932: R Dom Luís I, 7", "21932: R Dom Luís I, 7-9", 0).
-ponto_recolha(21889, -9.14620232759384, 38.7078285138109, "Tv Carvalho, 27-27/A", "21889: Tv Carvalho, 27", "21889: Tv Carvalho, 27-27/A", 0).
-ponto_recolha(21925, -9.14259782763484, 38.7090217515467, "R António Maria Cardoso, 31/33/35", "21925: R António Maria Cardoso, 31/33/35", "21925: R António Maria Cardoso, 31/33/35", 0).
-ponto_recolha(21927, -9.14584574313843, 38.7102547130905, "Tv Sequeiro, Jt 8", "21927: Tv Sequeiro, Jt 8", "21927: Tv Sequeiro, Jt 8", 0).
-ponto_recolha(21939, -9.14408457176942, 38.7117292486178, "R Diário de Notícias, 40-B", "21939: R Diário de Notícias, 40", "21939: R Diário de Notícias, 40-B", 0).
-ponto_recolha(21949, -9.15225663484226, 38.7140002169301, "R Quintinha, 70-B", "21949: R Quintinha, 70", "21949: R Quintinha, 70-B", 0).
+% SISTEMAS DE REPRESENTACÃO DO CONHECIMENTO E RACIOCÍNIO
+
+% ------Base de Conhecimento------
+
+% ponto_recolha: Id, Latituide, Longitude, NomeRua, Rua_Anterior, Rua_Seguinte, Direcao -> {V,F}
+
+ponto_recolha(15805, -9.14330880914792, 38.7080787857025, "R do Alecrim ", "R Ferragial ", "R Ataíde", "Par").
+ponto_recolha(15806, -9.14337777820218, 38.7080781891571, "R do Alecrim ", "R Ataíde ", "R Ferragial", "Impar").
+ponto_recolha(15807, -9.14348180670535, 38.7073026157039, "R do Alecrim ", "R Ferragial ", "Pc Duque da Terceira", "Impar").
+ponto_recolha(15808, -9.14255098678099, 38.7073286838222, "R Corpo Santo ", "Lg Corpo Santo ", "Tv Corpo Santo", "Ambos").
+ponto_recolha(15809, -9.14276596081499, 38.7070836135523, "Tv Corpo Santo ", "R Corpo Santo ", "R Bernardino da Costa", "Ambos").
+ponto_recolha(15810, -9.1426225690344, 38.7066975168166, "Tv Corpo Santo ", "R Bernardino da Costa ", "Cais do Sodré", "Ambos").
+ponto_recolha(15811, -9.14240835587344, 38.7069966274245, "R Bernardino da Costa ", "Lg Corpo Santo ", "Tv Corpo Santo", "Ambos").
+ponto_recolha(15812, -9.14305015543156, 38.7068559589223, "R Bernardino da Costa ", "Tv Corpo Santo ", "Pc Duque da Terceira", "Ambos").
+ponto_recolha(15813, -9.1512511235953, 38.7087754470349, "Lg Conde-Barão ", "R da Boavista ", "Bqr do Duro", "Ambos").
+ponto_recolha(15814, -9.15178946418214, 38.7086356323308, "Lg Conde-Barão ", "Bqr do Duro ", "R Mastros", "Ambos").
+ponto_recolha(15815, -9.15201897924565, 38.708606605818, "Lg Conde-Barão ", "R Mastros ", "Tv do Cais do Tojo", "Ambos").
+ponto_recolha(15818, -9.14910552718357, 38.709073383915, "Tv Marquês de Sampaio ", "R da Boavista ", "R da Boavista", "Ambos").
+ponto_recolha(15819, -9.14764976145157, 38.708563591768, "R da Boavista ", "R São Paulo ", "Tv Marquês de Sampaio", "Ambos").
+ponto_recolha(15820, -9.1485717796828, 38.7087267228466, "R da Boavista ", "Tv Marquês de Sampaio ", "Bqr dos Ferreiros", "Ambos").
+ponto_recolha(15821, -9.14911344583279, 38.7088210959641, "R da Boavista ", "Bqr dos Ferreiros ", "Tv Marquês de Sampaio", "Ambos").
+ponto_recolha(15822, -9.14949354638571, 38.7088718347208, "R da Boavista ", "Tv Marquês de Sampaio ", "Pto Galega", "Ambos").
+ponto_recolha(15823, -9.15018388371526, 38.7089108606806, "R da Boavista ", "Pto Galega ", "R Instituto Industrial", "Ambos").
+ponto_recolha(15824, -9.15079311664937, 38.7089055507175, "R da Boavista ", "R Instituto Industrial ", "Lg Conde-Barão", "Ambos").
+ponto_recolha(15825, -9.15206034846112, 38.7082819634324, "Tv do Cais do Tojo ", "R Cais do Tojo ", "R Cais do Tojo", "Ambos").
+ponto_recolha(15827, -9.15247211372946, 38.7081342433687, "R Cais do Tojo ", "Av Dom Carlos I ", "Tv do Cais do Tojo", "Ambos").
+ponto_recolha(15828, -9.15178357572543, 38.7082213241484, "R Cais do Tojo ", "Tv do Cais do Tojo ", "Bqr do Duro", "Ambos").
+ponto_recolha(15830, -9.15154474333579, 38.7084035643017, "Bqr do Duro ", "R Cais do Tojo ", "R Cais do Tojo", "Ambos").
+ponto_recolha(15831, -9.1513885281045, 38.7079275125773, "Bqr do Duro ", "R Cais do Tojo ", "R Dom Luís I", "Ambos").
+ponto_recolha(15834, -9.15046432876378, 38.7068005850863, "R Instituto Industrial ", "Av 24 de Julho ", "R Dom Luís I", "Ambos").
+ponto_recolha(15836, -9.1505486401448, 38.7078807891527, "R Instituto Industrial ", "R Dom Luís I ", "R da Boavista", "Ambos").
+ponto_recolha(15841, -9.14704425203433, 38.7080193757895, "R Moeda ", "R São Paulo ", "Pc Dom Luís I", "Ambos").
+ponto_recolha(15842, -9.14614421827306, 38.707783978131, "Tv Carvalho ", "R Ribeira Nova ", "Tv Carvalho", "Ambos").
+ponto_recolha(15843, -9.14563984658037, 38.7078874408968, "Tv Carvalho ", "Tv Carvalho ", "Pc São Paulo", "Ambos").
+ponto_recolha(15844, -9.14598863635406, 38.7081636570213, "Tv Carvalho ", "Tv Carvalho ", "R São Paulo", "Ambos").
+ponto_recolha(15845, -9.15199352638039, 38.7076249751805, "R Dom Luís I ", "Av Dom Carlos I ", "Bqr do Duro", "Ambos").
+ponto_recolha(15846, -9.15093562538604, 38.7076071810499, "R Dom Luís I ", "Bqr do Duro ", "R Instituto Industrial", "Ambos").
+ponto_recolha(15847, -9.14993558128589, 38.7076158965573, "R Dom Luís I ", "R Instituto Industrial ", "Bqr dos Ferreiros", "Ambos").
+ponto_recolha(15848, -9.14829055489657, 38.7075401361692, "R Dom Luís I ", "Bqr dos Ferreiros ", "Pc Dom Luís I", "Ambos").
+ponto_recolha(15849, -9.14714620183592, 38.707099690356, "Pc Dom Luís I ", "R Dom Luís I ", "Av 24 de Julho", "Ambos").
+ponto_recolha(15851, -9.14671590072996, 38.7075628281927, "Pc Dom Luís I ", "R Ribeira Nova ", "R Dom Luís I", "Ambos").
+ponto_recolha(15852, -9.14493001491084, 38.7072810634258, "R Ribeira Nova ", "R Remolares ", "R Instituto Dona Amélia", "Ambos").
+ponto_recolha(15853, -9.14585366538093, 38.7075613035211, "R Ribeira Nova ", "R Instituto Dona Amélia ", "Pc Dom Luís I", "Ambos").
+ponto_recolha(15855, -9.14350797013798, 38.7075275840864, "R São Paulo ", "R Corpo Santo ", "R Flores", "Par").
+ponto_recolha(15856, -9.14415472749814, 38.7077381729183, "R São Paulo ", "R Flores ", "Pc São Paulo", "Par").
+ponto_recolha(15857, -9.14418870357883, 38.707701846559, "R São Paulo ", "Pc São Paulo ", "Tv dos Remolares", "Impar").
+ponto_recolha(15858, -9.14351882987146, 38.7074824516687, "R São Paulo ", "Tv dos Remolares ", "Tv Corpo Santo", "Impar").
+ponto_recolha(15859, -9.14475474461576, 38.7078951146912, "R São Paulo ", "Pc São Paulo ", "Pc São Paulo", "Ambos").
+ponto_recolha(15860, -9.14552858843579, 38.7081496329634, "R São Paulo ", "Pc São Paulo ", "Tv Carvalho", "Ambos").
+ponto_recolha(15861, -9.14606015123382, 38.7083431936003, "R São Paulo ", "Tv Carvalho ", "Bc da Moeda", "Ambos").
+ponto_recolha(15862, -9.14634879700261, 38.7084307669213, "R São Paulo ", "Bc da Moeda ", "Cc da Bica Grande", "Ambos").
+ponto_recolha(15863, -9.14664843006564, 38.7084822125522, "R São Paulo ", "Cc da Bica Grande ", "R Moeda", "Ambos").
+ponto_recolha(15864, -9.14695866414731, 38.7084705102342, "R São Paulo ", "R Moeda ", "R da Boavista", "Ambos").
+ponto_recolha(15865, -9.14428821714939, 38.7074217423076, "R Nova do Carvalho ", "Pc São Paulo ", "Tv dos Remolares", "Ambos").
+ponto_recolha(15866, -9.14381451843206, 38.7072546959625, "R Nova do Carvalho ", "Tv dos Remolares ", "R do Alecrim", "Ambos").
+ponto_recolha(15867, -9.14319266057494, 38.7071790073949, "R Nova do Carvalho ", "R do Alecrim ", "Tv Corpo Santo", "Ambos").
+ponto_recolha(15868, -9.14402783597271, 38.7068925345681, "R Remolares ", "Pc Duque da Terceira ", "Tv dos Remolares", "Ambos").
+ponto_recolha(15869, -9.14447892499263, 38.7070868003123, "R Remolares ", "Tv dos Remolares ", "Tv Ribeira Nova", "Ambos").
+ponto_recolha(15871, -9.14441649477531, 38.7067360350326, "Tv dos Remolares ", "Av 24 de Julho ", "R Remolares", "Ambos").
+ponto_recolha(15873, -9.14416983805955, 38.7071795562796, "Tv dos Remolares ", "R Nova do Carvalho ", "R Nova do Carvalho", "Ambos").
+ponto_recolha(15875, -9.14401335962188, 38.7074961856438, "Tv dos Remolares ", "R São Paulo ", "R Nova do Carvalho", "Ambos").
+ponto_recolha(15876, -9.14404732851606, 38.7058294413797, "Cais do Sodré ", "Av 24 de Julho ", "R Cintura", "Ambos").
+ponto_recolha(15877, -9.14324233291858, 38.7058093867279, "Cais do Sodré ", "R Cintura (Santos) ", "Pc Duque da Terceira", "Ambos").
+ponto_recolha(15878, -9.14281417070135, 38.7064256244632, "Cais do Sodré ", "Pc Duque da Terceira ", "Tv Corpo Santo", "Ambos").
+ponto_recolha(15879, -9.14222984894838, 38.7065657946941, "Cais do Sodré ", "Tv Corpo Santo ", "Lg Corpo Santo", "Ambos").
+ponto_recolha(15880, -9.14622006213417, 38.7082697430488, "Bc da Moeda ", "R São Paulo ", "R São Paulo", "Ambos").
+ponto_recolha(15881, -9.14956443154647, 38.7090063348014, "Pto Galega ", "R da Boavista ", "R da Boavista", "Ambos").
+ponto_recolha(15882, -9.15059949287472, 38.709033347926, "Bc da Boavista ", "R da Boavista ", "R da Boavista", "Ambos").
+ponto_recolha(15883, -9.1446205470921, 38.7073467997814, "Tv Ribeira Nova ", "R Remolares ", "R Nova do Carvalho", "Ambos").
+ponto_recolha(15884, -9.14476400355141, 38.7069221884751, "Pc Ribeira Nova ", "Av 24 de Julho ", "R Ribeira Nova", "Ambos").
+ponto_recolha(15885, -9.14508822170713, 38.7079012322757, "Pc São Paulo ", "R São Paulo ", "Tv Carvalho", "Ambos").
+ponto_recolha(15886, -9.14488886847759, 38.7076237175904, "Pc São Paulo ", "Tv Carvalho ", "Tv Ribeira Nova", "Ambos").
+ponto_recolha(15887, -9.14447518350945, 38.7076363096132, "Pc São Paulo ", "Tv Ribeira Nova ", "R São Paulo", "Ambos").
+ponto_recolha(15888, -9.14329884772974, 38.7065565483955, "Pc Duque da Terceira ", "Cais do Sodré ", "R Bernardino da Costa", "Ambos").
+ponto_recolha(15889, -9.14340471238935, 38.7067267810448, "Pc Duque da Terceira ", "R Bernardino da Costa ", "R do Alecrim", "Ambos").
+ponto_recolha(15890, -9.14361174262131, 38.7067339965055, "Pc Duque da Terceira ", "R do Alecrim ", "R Remolares", "Ambos").
+ponto_recolha(15891, -9.1437590142256, 38.7065795884311, "Pc Duque da Terceira ", "R Remolares ", "Av 24 de Julho", "Ambos").
+ponto_recolha(15892, -9.14200502758224, 38.7069280516782, "Lg Corpo Santo ", "Cais do Sodré ", "R Arsenal", "Ambos").
+ponto_recolha(15893, -9.14201010036865, 38.7072883208907, "Lg Corpo Santo ", "R Arsenal ", "Cc do Ferragial", "Ambos").
+ponto_recolha(15894, -9.1420813502454, 38.7074498453842, "Lg Corpo Santo ", "Cc do Ferragial ", "R Corpo Santo", "Ambos").
+ponto_recolha(15896, -9.14986368552042, 38.7090307521821, "Bc Francisco André ", "R da Boavista ", "R da Boavista", "Ambos").
+ponto_recolha(15897, -9.14534815013291, 38.7075837039225, "Tv de São Paulo ", "Pc São Paulo ", "R Ribeira Nova", "Ambos").
+ponto_recolha(15898, -9.14437680001953, 38.7063670578938, "Av 24 de Julho ", "Pc Duque da Terceira ", "Tv dos Remolares", "Impar").
+ponto_recolha(15899, -9.14473414894124, 38.7064360246404, "Av 24 de Julho ", "Tv dos Remolares ", "Pc Ribeira Nova", "Par").
+ponto_recolha(19301, -9.14422400736949, 38.7069448834987, "R Remolares", "Tv dos Remolares ", "Tv dos Remolares ", "Ambos").
+ponto_recolha(19282, -9.1513885505624, 38.7087382169296, "Lg Conde-Barão", "R da Boavista ", "R da Boavista ", "Ambos").
+ponto_recolha(19319, -9.14481349084208, 38.7079846835909, "R São Paulo", "Tv Carvalho ", "Tv Carvalho ", "Ambos").
+ponto_recolha(19415, -9.14301166531656, 38.7073877536231, "R São Paulo", "Tv Carvalho ", "Tv Carvalho ", "Ambos").
+ponto_recolha(21959, -9.1507756102811, 38.7084823352254, "R Instituto Industrial", "R da Boavista ", "R da Boavista ", "Ambos").
+ponto_recolha(21911, -9.14605416845402, 38.707919877341, "Tv Carvalho", "Tv Carvalho ", "Tv Carvalho ", "Ambos").
+ponto_recolha(21952, -9.14906797670637, 38.7088575233976, "R da Boavista", "Tv Marquês de Sampaio ", "Tv Marquês de Sampaio ", "Ambos").
+ponto_recolha(21969, -9.15158073972755, 38.7077006401431, "R Dom Luís I", "Bqr do Duro ", "Bqr do Duro ", "Ambos").
+ponto_recolha(21961, -9.14329248945415, 38.7077366293235, "R do Alecrim", "R Nova do Carvalho ", "R Nova do Carvalho ", "Ambos").
+ponto_recolha(21944, -9.14323374592279, 38.7076470601131, "R Ferragial", "R do Alecrim ", "R do Alecrim ", "Ambos").
+ponto_recolha(21932, -9.14841674214284, 38.7075210227377, "R Dom Luís I", "Bqr do Duro ", "Bqr do Duro ", "Ambos").
+ponto_recolha(21889, -9.14620232759384, 38.7078285138109, "Tv Carvalho", "Tv Carvalho ", "Tv Carvalho ", "Ambos").
+
+% aresta: IdOrigem, IdDestino, Distancia -> {V,F}
+
+aresta(15805, 15805, 0.0).
+aresta(15805, 15805, 0.0).
+aresta(21944, 15806, 0.049966522140009184).
+aresta(15806, 15805, 0.007669288552013162).
+aresta(15805, 15807, 0.08735391378745427).
+aresta(15807, 15805, 0.08735391378745427).
+aresta(15892, 15808, 0.07496596619790769).
+aresta(15808, 15805, 0.11782158041213624).
+aresta(15805, 15808, 0.11782158041213624).
+aresta(15808, 15892, 0.07496596619790769).
+aresta(15808, 15809, 0.035989548127419856).
+aresta(15809, 15805, 0.1248182745472592).
+aresta(15805, 15809, 0.1248182745472592).
+aresta(15809, 15808, 0.035989548127419856).
+aresta(15811, 15810, 0.040566451732166185).
+aresta(15810, 15805, 0.16975562067563188).
+aresta(15805, 15810, 0.16975562067563188).
+aresta(15810, 15811, 0.040566451732166185).
+aresta(15892, 15811, 0.045475547745463724).
+aresta(15811, 15805, 0.15536742258670028).
+aresta(15805, 15811, 0.15536742258670028).
+aresta(15811, 15892, 0.045475547745463724).
+aresta(15809, 15812, 0.040289509681095306).
+aresta(15812, 15805, 0.13729087572736606).
+aresta(15805, 15812, 0.13729087572736606).
+aresta(15812, 15809, 0.040289509681095306).
+aresta(15819, 15813, 0.4011280053909776).
+aresta(15813, 15805, 0.8864504617324432).
+aresta(15805, 15813, 0.8864504617324432).
+aresta(15813, 15819, 0.4011280053909776).
+aresta(15830, 15814, 0.03727626631650302).
+aresta(15814, 15805, 0.9449851701126695).
+aresta(15805, 15814, 0.9449851701126695).
+aresta(15814, 15830, 0.03727626631650302).
+aresta(15805, 15815, 0.9702585120205865).
+aresta(15815, 15805, 0.9702585120205865).
+aresta(15805, 15815, 0.9702585120205865).
+aresta(15815, 15805, 0.9702585120205865).
+aresta(15819, 15818, 0.17127528758138555).
+aresta(15818, 21952, 0.024062272605486854).
+aresta(21952, 15818, 0.024062272605486854).
+aresta(15818, 15819, 0.17127528758138555).
+aresta(15855, 15819, 0.47438200682506415).
+aresta(15819, 15805, 0.4856172355081034).
+aresta(15805, 15819, 0.4856172355081034).
+aresta(15819, 15855, 0.47438200682506415).
+aresta(15818, 15820, 0.07050338740143358).
+aresta(15820, 15805, 0.5895226845382727).
+aresta(15805, 15820, 0.5895226845382727).
+aresta(15820, 15818, 0.07050338740143358).
+aresta(15805, 15821, 0.6505702347523974).
+aresta(15821, 15805, 0.6505702347523974).
+aresta(15805, 15821, 0.6505702347523974).
+aresta(15821, 15805, 0.6505702347523974).
+aresta(15818, 15822, 0.04848837244921911).
+aresta(15822, 15805, 0.6932003564237443).
+aresta(15805, 15822, 0.6932003564237443).
+aresta(15822, 15818, 0.04848837244921911).
+aresta(15881, 15823, 0.06967281047248568).
+aresta(15823, 21959, 0.08088468382527415).
+aresta(21959, 15823, 0.08088468382527415).
+aresta(15823, 15881, 0.06967281047248568).
+aresta(15834, 15824, 0.23395691839589008).
+aresta(15824, 19282, 0.06871035987425744).
+aresta(19282, 15824, 0.06871035987425744).
+aresta(15824, 15834, 0.23395691839589008).
+aresta(15827, 15825, 0.048573195126578345).
+aresta(15825, 15805, 0.973382364396117).
+aresta(15805, 15825, 0.973382364396117).
+aresta(15825, 15827, 0.048573195126578345).
+aresta(15805, 15827, 1.0189311695618928).
+aresta(15827, 15805, 1.0189311695618928).
+aresta(15805, 15827, 1.0189311695618928).
+aresta(15827, 15805, 1.0189311695618928).
+aresta(15825, 15828, 0.03148745965945074).
+aresta(15828, 15805, 0.9424809583304412).
+aresta(15805, 15828, 0.9424809583304412).
+aresta(15828, 15825, 0.03148745965945074).
+aresta(15827, 15830, 0.10727369594031401).
+aresta(15830, 15805, 0.9164878995750152).
+aresta(15805, 15830, 0.9164878995750152).
+aresta(15830, 15827, 0.10727369594031401).
+aresta(15827, 15831, 0.12260793799560828).
+aresta(15831, 21969, 0.03281935306304879).
+aresta(21969, 15831, 0.03281935306304879).
+aresta(15831, 15827, 0.12260793799560828).
+aresta(15898, 15834, 0.6785733790660381).
+aresta(15834, 21969, 0.15866167211657498).
+aresta(21969, 15834, 0.15866167211657498).
+aresta(15834, 15898, 0.6785733790660381).
+aresta(15845, 15836, 0.16309994167280503).
+aresta(15836, 21952, 0.19648023062637948).
+aresta(21952, 15836, 0.19648023062637948).
+aresta(15836, 15845, 0.16309994167280503).
+aresta(15855, 15841, 0.3969057547628921).
+aresta(15841, 15805, 0.4154135003799429).
+aresta(15805, 15841, 0.4154135003799429).
+aresta(15841, 15855, 0.3969057547628921).
+aresta(15852, 15842, 0.14586568341040776).
+aresta(15842, 21911, 0.017967854568468677).
+aresta(21911, 15842, 0.017967854568468677).
+aresta(15842, 15852, 0.14586568341040776).
+aresta(15842, 15843, 0.057222177696737646).
+aresta(15843, 15805, 0.26004933853602274).
+aresta(15805, 15843, 0.26004933853602274).
+aresta(15843, 15842, 0.057222177696737646).
+aresta(15842, 15844, 0.04512919602412709).
+aresta(15844, 19319, 0.1321391254442445).
+aresta(19319, 15844, 0.1321391254442445).
+aresta(15844, 15842, 0.04512919602412709).
+aresta(15805, 15845, 0.9669807235377937).
+aresta(15845, 15805, 0.9669807235377937).
+aresta(15805, 15845, 0.9669807235377937).
+aresta(15845, 15805, 0.9669807235377937).
+aresta(15830, 15846, 0.11059333614729495).
+aresta(15846, 21959, 0.09770793116586479).
+aresta(21959, 15846, 0.09770793116586479).
+aresta(15846, 15830, 0.11059333614729495).
+aresta(15834, 15847, 0.10708808610363808).
+aresta(15847, 15805, 0.7386135962001388).
+aresta(15805, 15847, 0.7386135962001388).
+aresta(15847, 15834, 0.10708808610363808).
+aresta(15805, 15848, 0.5570921729585574).
+aresta(15848, 15805, 0.5570921729585574).
+aresta(15805, 15848, 0.5570921729585574).
+aresta(15848, 15805, 0.5570921729585574).
+aresta(15845, 15849, 0.5420738722709347).
+aresta(15849, 15805, 0.4400284665450932).
+aresta(15805, 15849, 0.4400284665450932).
+aresta(15849, 15845, 0.5420738722709347).
+aresta(15852, 15851, 0.20097614080258178).
+aresta(15851, 21969, 0.5411569367632584).
+aresta(21969, 15851, 0.5411569367632584).
+aresta(15851, 15852, 0.20097614080258178).
+aresta(15868, 15852, 0.10900896651911168).
+aresta(15852, 15805, 0.200416251310273).
+aresta(15805, 15852, 0.200416251310273).
+aresta(15852, 15868, 0.10900896651911168).
+aresta(15805, 15853, 0.2886213648360902).
+aresta(15853, 15805, 0.2886213648360902).
+aresta(15805, 15853, 0.2886213648360902).
+aresta(15853, 15805, 0.2886213648360902).
+aresta(15808, 15855, 0.10862893971857601).
+aresta(15855, 15805, 0.06443709404311179).
+aresta(15805, 15856, 0.10122190607542138).
+aresta(15856, 15805, 0.10122190607542138).
+aresta(15805, 15857, 0.10623098555708586).
+aresta(15857, 15885, 0.10238893863982972).
+aresta(15805, 15858, 0.06950735219469219).
+aresta(15858, 15871, 0.1291427470207117).
+aresta(15885, 15859, 0.037087042095543046).
+aresta(15859, 15805, 0.16204013803117825).
+aresta(15805, 15859, 0.16204013803117825).
+aresta(15859, 15885, 0.037087042095543046).
+aresta(15885, 15860, 0.05604787375541483).
+aresta(15860, 21911, 0.06365250250025394).
+aresta(21911, 15860, 0.06365250250025394).
+aresta(15860, 15885, 0.05604787375541483).
+aresta(15842, 15861, 0.06209895746310944).
+aresta(15861, 15805, 0.30730924344218313).
+aresta(15805, 15861, 0.30730924344218313).
+aresta(15861, 15842, 0.06209895746310944).
+aresta(15880, 15862, 0.022746420849131817).
+aresta(15862, 15805, 0.3402326293182873).
+aresta(15805, 15862, 0.3402326293182873).
+aresta(15862, 15880, 0.022746420849131817).
+aresta(15805, 15863, 0.3739806255979386).
+aresta(15863, 15805, 0.3739806255979386).
+aresta(15805, 15863, 0.3739806255979386).
+aresta(15863, 15805, 0.3739806255979386).
+aresta(15841, 15864, 0.05043206594601604).
+aresta(15864, 21952, 0.23836190126445758).
+aresta(21952, 15864, 0.23836190126445758).
+aresta(15864, 15841, 0.05043206594601604).
+aresta(15885, 15865, 0.1033640910351586).
+aresta(15865, 15805, 0.13062654758564715).
+aresta(15805, 15865, 0.13062654758564715).
+aresta(15865, 15885, 0.1033640910351586).
+aresta(15871, 15866, 0.08787852926641225).
+aresta(15866, 21961, 0.07854085868636974).
+aresta(21961, 15866, 0.07854085868636974).
+aresta(15866, 15871, 0.08787852926641225).
+aresta(15805, 15867, 0.09962028109220068).
+aresta(15867, 15805, 0.09962028109220068).
+aresta(15805, 15867, 0.09962028109220068).
+aresta(15867, 15805, 0.09962028109220068).
+aresta(15888, 15868, 0.08905734122857352).
+aresta(15868, 15805, 0.15281339247539638).
+aresta(15805, 15868, 0.15281339247539638).
+aresta(15868, 15888, 0.08905734122857352).
+aresta(15871, 15869, 0.03912834061559789).
+aresta(15869, 15805, 0.1696717797113486).
+aresta(15805, 15869, 0.1696717797113486).
+aresta(15869, 15871, 0.03912834061559789).
+aresta(15898, 15871, 0.04074672351869654).
+aresta(15871, 19301, 0.03136553818152994).
+aresta(19301, 15871, 0.03136553818152994).
+aresta(15871, 15898, 0.04074672351869654).
+aresta(15865, 15873, 0.029667659688301474).
+aresta(15873, 15805, 0.13752094999699171).
+aresta(15805, 15873, 0.13752094999699171).
+aresta(15873, 15865, 0.029667659688301474).
+aresta(15855, 15875, 0.056302362402666846).
+aresta(15875, 15805, 0.10113500495328162).
+aresta(15805, 15875, 0.10113500495328162).
+aresta(15875, 15855, 0.056302362402666846).
+aresta(15898, 15876, 0.06946642958586689).
+aresta(15876, 15805, 0.26023399393199564).
+aresta(15805, 15876, 0.26023399393199564).
+aresta(15876, 15898, 0.06946642958586689).
+aresta(15805, 15877, 0.2492489972011507).
+aresta(15877, 15805, 0.2492489972011507).
+aresta(15805, 15877, 0.2492489972011507).
+aresta(15877, 15805, 0.2492489972011507).
+aresta(15888, 15878, 0.055777319202325856).
+aresta(15878, 15805, 0.1896388492137367).
+aresta(15805, 15878, 0.1896388492137367).
+aresta(15878, 15888, 0.055777319202325856).
+aresta(15809, 15879, 0.08237307020946852).
+aresta(15879, 15805, 0.20489762897199051).
+aresta(15805, 15879, 0.20489762897199051).
+aresta(15879, 15809, 0.08237307020946852).
+aresta(15855, 15880, 0.3123831472760759).
+aresta(15880, 19319, 0.15950364286623667).
+aresta(19319, 15880, 0.15950364286623667).
+aresta(15880, 15855, 0.3123831472760759).
+aresta(15819, 15881, 0.2183792383628476).
+aresta(15881, 21952, 0.05756980739192595).
+aresta(21952, 15881, 0.05756980739192595).
+aresta(15881, 15819, 0.2183792383628476).
+aresta(15819, 15882, 0.33202453586120767).
+aresta(15882, 21952, 0.17138721637993212).
+aresta(21952, 15882, 0.17138721637993212).
+aresta(15882, 15819, 0.33202453586120767).
+aresta(15868, 15883, 0.08264794875734764).
+aresta(15883, 15805, 0.1665300801581551).
+aresta(15805, 15883, 0.1665300801581551).
+aresta(15883, 15868, 0.08264794875734764).
+aresta(15898, 15884, 0.07461775549973287).
+aresta(15884, 15805, 0.20568129282175174).
+aresta(15805, 15884, 0.20568129282175174).
+aresta(15884, 15898, 0.07461775549973287).
+aresta(15855, 15885, 0.18044034614709975).
+aresta(15885, 21911, 0.10742787959496829).
+aresta(21911, 15885, 0.10742787959496829).
+aresta(15885, 15855, 0.18044034614709975).
+aresta(15842, 15886, 0.14069290302699355).
+aresta(15886, 15805, 0.18265927018961026).
+aresta(15805, 15886, 0.18265927018961026).
+aresta(15886, 15842, 0.14069290302699355).
+aresta(15883, 15887, 0.03565692791601688).
+aresta(15887, 19319, 0.05364517002568398).
+aresta(19319, 15887, 0.05364517002568398).
+aresta(15887, 15883, 0.03565692791601688).
+aresta(15876, 15888, 0.11531924140262038).
+aresta(15888, 15805, 0.1671180528555225).
+aresta(15805, 15888, 0.1671180528555225).
+aresta(15888, 15876, 0.11531924140262038).
+aresta(15811, 15889, 0.11468207561766339).
+aresta(15889, 21961, 0.11156331160837592).
+aresta(21961, 15889, 0.11156331160837592).
+aresta(15889, 15811, 0.11468207561766339).
+aresta(15805, 15890, 0.15142775273507605).
+aresta(15890, 19301, 0.07190953803639712).
+aresta(19301, 15890, 0.07190953803639712).
+aresta(15890, 15805, 0.15142775273507605).
+aresta(15868, 15891, 0.045539335818211964).
+aresta(15891, 15805, 0.17202977236446756).
+aresta(15805, 15891, 0.17202977236446756).
+aresta(15891, 15868, 0.045539335818211964).
+aresta(15876, 15892, 0.2571336331967272).
+aresta(15892, 15805, 0.1922934000679689).
+aresta(15805, 15892, 0.1922934000679689).
+aresta(15892, 15876, 0.2571336331967272).
+aresta(15805, 15893, 0.16847788694944066).
+aresta(15893, 15805, 0.16847788694944066).
+aresta(15805, 15893, 0.16847788694944066).
+aresta(15893, 15805, 0.16847788694944066).
+aresta(15805, 15894, 0.15295808285430654).
+aresta(15894, 15805, 0.15295808285430654).
+aresta(15805, 15894, 0.15295808285430654).
+aresta(15894, 15805, 0.15295808285430654).
+aresta(15819, 15896, 0.25146239024849515).
+aresta(15896, 21952, 0.09049941819538816).
+aresta(21952, 15896, 0.09049941819538816).
+aresta(15896, 15819, 0.25146239024849515).
+aresta(15885, 15897, 0.04528243435789889).
+aresta(15897, 15805, 0.2331868480344248).
+aresta(15805, 15897, 0.2331868480344248).
+aresta(15897, 15885, 0.04528243435789889).
+aresta(15805, 15898, 0.2222959695572721).
+aresta(15898, 15888, 0.1216546195247686).
+aresta(15871, 15899, 0.04829459093303588).
+aresta(15899, 15805, 0.2400910392721628).
+aresta(15871, 19301, 0.03136553818152994).
+aresta(19301, 15871, 0.03136553818152994).
+aresta(15871, 19301, 0.03136553818152994).
+aresta(19301, 15871, 0.03136553818152994).
+aresta(15819, 19282, 0.41617613928842034).
+aresta(19282, 15819, 0.41617613928842034).
+aresta(15819, 19282, 0.41617613928842034).
+aresta(19282, 15819, 0.41617613928842034).
+aresta(15842, 19319, 0.14960162853533243).
+aresta(19319, 15842, 0.14960162853533243).
+aresta(15842, 19319, 0.14960162853533243).
+aresta(19319, 15842, 0.14960162853533243).
+aresta(15842, 19415, 0.35102948507396153).
+aresta(19415, 15842, 0.35102948507396153).
+aresta(15842, 19415, 0.35102948507396153).
+aresta(19415, 15842, 0.35102948507396153).
+aresta(15819, 21959, 0.3476929799726122).
+aresta(21959, 15819, 0.3476929799726122).
+aresta(15819, 21959, 0.3476929799726122).
+aresta(21959, 15819, 0.3476929799726122).
+aresta(15842, 21911, 0.017967854568468677).
+aresta(21911, 15842, 0.017967854568468677).
+aresta(15842, 21911, 0.017967854568468677).
+aresta(21911, 15842, 0.017967854568468677).
+aresta(15818, 21952, 0.024062272605486854).
+aresta(21952, 15818, 0.024062272605486854).
+aresta(15818, 21952, 0.024062272605486854).
+aresta(21952, 15818, 0.024062272605486854).
+aresta(15830, 21969, 0.07727042464683509).
+aresta(21969, 15830, 0.07727042464683509).
+aresta(15830, 21969, 0.07727042464683509).
+aresta(21969, 15830, 0.07727042464683509).
+aresta(15865, 21961, 0.11599094095216443).
+aresta(21961, 15865, 0.11599094095216443).
+aresta(15865, 21961, 0.11599094095216443).
+aresta(21961, 15865, 0.11599094095216443).
+aresta(15805, 21944, 0.048125072592976936).
+aresta(21944, 15805, 0.048125072592976936).
+aresta(15805, 21944, 0.048125072592976936).
+aresta(21944, 15805, 0.048125072592976936).
+aresta(15830, 21932, 0.36105962542137326).
+aresta(21932, 15830, 0.36105962542137326).
+aresta(15830, 21932, 0.36105962542137326).
+aresta(21932, 15830, 0.36105962542137326).
+aresta(15842, 21889, 0.00810275080636356).
+aresta(21889, 15842, 0.00810275080636356).
+aresta(15842, 21889, 0.00810275080636356).
+aresta(21889, 15842, 0.00810275080636356).
+
