@@ -8,12 +8,12 @@ tamanhoLista([Cabeca|Cauda], TotalElementos) :- tamanhoLista(Cauda, Total), Tota
 
 % Verifica se o nodo Próximo já foi visitado.
 proximoNodo(Actual, Proximo, Distancia, Caminho) :-
-    adjacencia(Actual, Proximo, Distancia),
+    aresta(Actual, Proximo, Distancia),
     naopertence(Proximo, Caminho).
 
 % Verifica se o nodo Próximo já foi visitado.
 proximoNodo(Actual, ProxNodo,Distancia,Caracteristica,Visitados) :-
-    adjacencia(Actual, Proximo, Distancia),
+    aresta(Actual, Proximo, Distancia),
     naopertence(Proximo, Caminho).
 
 
@@ -97,6 +97,13 @@ obtem_melhor([_|Caminhos], MelhorCaminho) :-
 expande_aestrela(Caminho, Destino, ExpCaminhos) :-
     findall(NovoCaminho, adjacente(Caminho,Destino,NovoCaminho), ExpCaminhos).
 
+% Estima a distancia entre dois pontos de recolha ----------------------
+
+estima(IDOrigem, IDDestino, Estima) :- ponto_recolha(IDOrigem, Lat1, Long1,_,_,_,_), ponto_recolha(IDDestino, Lat2, Long2,_,_,_,_),
+    Estima is sqrt(((Lat1-Lat2)*(Lat1-Lat2)) + ((Long1 - Long2) * (Long1 - Long2))).
+
+% outras funções auxiliares ----------------------------------------
+
 inverso(Xs, Ys):-
     inverso(Xs, [], Ys).
 
@@ -106,3 +113,5 @@ inverso([X|Xs],Ys, Zs):-
 
 seleciona(E, [E|Xs], Xs).
 seleciona(E, [X|Xs], [X|Ys]) :- seleciona(E, Xs, Ys).
+
+solucoes(X,Y,Z) :- findall(X,Y,Z).
